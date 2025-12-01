@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Keep Me Up",
+  "base_artist": "Michael Schulte",
+  "createdAt": "2025-12-01T11:01:21.499595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Keep Me Up All Night",
+      "artist": "Charlotte Sands",
+      "has_synced": true,
+      "path": "select/01_Keep_Me_Up_All_Night_Charlotte_Sands.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Keep me up",
+      "artist": "B.I",
+      "has_synced": false,
+      "path": "select/02_Keep_me_up_B.I.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keep me up",
+      "artist": "B.I",
+      "has_synced": true,
+      "path": "select/03_Keep_me_up_B.I.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Keep Me Up",
+      "artist": "Charlotte Lawrence",
+      "has_synced": true,
+      "path": "select/04_Keep_Me_Up_Charlotte_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keep me up all Night - Edit Mix",
+      "artist": "Ripstar feat. Nyanda & Pitbull",
+      "has_synced": false,
+      "path": "select/05_Keep_me_up_all_Night_-_Edit_Mix_Ripstar_feat._Nyanda_&_Pitbull.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Keep Me Up All Night (feat. Pitbull) [Edit Mix]",
+      "artist": "Ripstar & Nyanda",
+      "has_synced": false,
+      "path": "select/06_Keep_Me_Up_All_Night_(feat._Pitbull)_[Edit_Mix]_Ripstar_&_Nyanda.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Keep Me Up All Night (feat. Pitbull) [Edit Mix]",
+      "artist": "Ripstar & Nyanda feat. Pitbull",
+      "has_synced": true,
+      "path": "select/07_Keep_Me_Up_All_Night_(feat._Pitbull)_[Edit_Mix]_Ripstar_&_Nyanda_feat._Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Keep Me Up All Night (feat. Pitbull)  (Edit Mix)",
+      "artist": "Ripstar",
+      "has_synced": true,
+      "path": "select/08_Keep_Me_Up_All_Night_(feat._Pitbull)_(Edit_Mix)_Ripstar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Keep Me up All Night",
+      "artist": "Julie Roberts",
+      "has_synced": true,
+      "path": "select/09_Keep_Me_up_All_Night_Julie_Roberts.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Keep Me Up",
+      "artist": "Alex Day",
+      "has_synced": false,
+      "path": "select/10_Keep_Me_Up_Alex_Day.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Keep Me Up",
+      "artist": "Michael Schulte",
+      "has_synced": true,
+      "path": "select/11_Keep_Me_Up_Michael_Schulte.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Won't Keep Me Up At Night",
+      "artist": "Sun Seeker",
+      "has_synced": true,
+      "path": "select/12_Won't_Keep_Me_Up_At_Night_Sun_Seeker.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Keep me up",
+      "artist": "B.I",
+      "has_synced": true,
+      "path": "select/13_Keep_me_up_B.I.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Keep Me Up All Night",
+      "artist": "Charlotte Sands",
+      "has_synced": true,
+      "path": "select/14_Keep_Me_Up_All_Night_Charlotte_Sands.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Keep me up",
+      "artist": "B.I",
+      "has_synced": true,
+      "path": "select/15_Keep_me_up_B.I.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Keep Me Up At Night",
+      "artist": "THE DRIVER ERA, Ross Lynch, Rocky",
+      "has_synced": true,
+      "path": "select/16_You_Keep_Me_Up_At_Night_THE_DRIVER_ERA,_Ross_Lynch,_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Keep Me Up At Night",
+      "artist": "THE DRIVER ERA",
+      "has_synced": false,
+      "path": "select/17_You_Keep_Me_Up_At_Night_THE_DRIVER_ERA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Keep me up",
+      "artist": "B.I",
+      "has_synced": false,
+      "path": "select/pl_01_Keep_me_up_B.I.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Keep Me Up",
+      "artist": "B.I",
+      "has_synced": false,
+      "path": "select/pl_02_Keep_Me_Up_B.I.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Keep Me Up At Night",
+      "artist": "B.I",
+      "has_synced": false,
+      "path": "select/pl_03_Keep_Me_Up_At_Night_B.I.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Keep Me Up All Night",
+      "artist": "B.I",
+      "has_synced": false,
+      "path": "select/pl_04_Keep_Me_Up_All_Night_B.I.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Keep Me Up at Night",
+      "artist": "B.I",
+      "has_synced": false,
+      "path": "select/pl_05_Keep_Me_Up_at_Night_B.I.txt"
+    }
+  ]
+}
